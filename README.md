@@ -74,7 +74,7 @@ Read the flag from a file on the disk
 
 These are challenges from BSidesSF CTF. Some are easier, some are harder. You can find solutions if you google the name, so only do that if you're completely stuck!
 
-## skipper, skipper2
+## [skipper](skipper), [skipper2](skipper2)
 
 Port: n/a
 
