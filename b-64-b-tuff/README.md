@@ -1,3 +1,5 @@
 The server will run any code you send it. But, there's a catch!
 
-The flag is in ./flag.txt.
+The flag is in /home/ctf/flag.txt.
+
+`nc ctf.skullspace.net 6128`
