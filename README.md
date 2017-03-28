@@ -16,55 +16,55 @@ Port: 6112
 
 A simple web problem.
 
-## dontcrash
+## [dontcrash](dontcrash)
 
 Port: 6113
 
 This is a great beginner level, simply write shellcode that doesn't crash!
 
-## easycap
+## [easycap](easycap)
 
 Port: n/a
 
 Can you read a pcap?
 
-## easyreverse
+## [easyreverse](easyreverse)
 
 Port: n/a
 
 Reverse engineer this simple program!
 
-## seteax, seteax-nz
+## [seteax](seteax) [seteax-nz](seteax-nz)
 
 Port: 6114 (basic) and 6115 (nz)
 
 Write some fairly simple shellcode (the -nz variation doesn't allow NUL bytes)
 
-## readmem, readmem-nz
+## [readmem](readmem) [readmem-nz](readmem-nz)
 
 Port: 6116 (basic) and 6117 (nz)
 
 Read the flag from a known memory address
 
-## writemem, writemem-nz
+## [writemem](writemem) [writemem-nz](writemem-nz)
 
 Port: 6118 (basic) and 6119 (nz)
 
 Write a special value to a known memory address
 
-## readstack, readstack-nz
+## [readstack](readstack) [readstack-nz](readstack-nz)
 
 Port: 6120 (basic) and 6121 (nz)
 
 Read the flag off the stack!
 
-## writestack, writestack-nz
+## [writestack](writestack) [writestack-nz](writestack-nz)
 
 Port: 6122 (basic) and 6123 (nz)
 
 Write a special value to the stack (without damaging the rest of the stack)
 
-## readfile, readfile-nz
+## [readfile](readfile) [readfile-nz](readfile-nz)
 
 Port: 6124 (basic) and 6125 (nz)
 
@@ -80,43 +80,43 @@ Port: n/a
 
 Modify a binary (on disk or in memory) to decrypt the flag
 
-## hashecute
+## [hashecute](hashecute)
 
 Port: 6126
 
 Shellcode with an MD5 prefix
 
-## shortest
+## [shortest](shortest)
 
 Port: 6127
 
 Shellcode, in 5 bytes or less
 
-## b-64-b-tuff
+## [b-64-b-tuff](b-64-b-tuff)
 
 Port: 6128
 
 Shellcode, that's base64 compatible
 
-## in-plain-sight
+## [in-plain-sight](in-plain-sight)
 
 Port: n/a
 
 A fun little crypto problem
 
-## ximage
+## [ximage](ximage)
 
 Port: n/a
 
 Good luck figuring out the flag! Just remember the theme. :)
 
-## vhash
+## [vhash](vhash)
 
 Port: 6129
 
 Some reverse engineering, some crypto, and some web. Fairly difficult!
 
-## nibbler
+## [nibbler](nibbler)
 
 Port: 6130
 
