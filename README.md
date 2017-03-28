@@ -10,7 +10,7 @@ These are roughly ordered by difficulty, easiest to hardest.
 
 These are challenges designed to teach basic CTF skills, the primary theme being writing shellcode.
 
-## easyauth
+## [easyauth](easyauth/)
 
 Port: 6112
 
