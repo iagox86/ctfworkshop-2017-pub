@@ -1,6 +1,6 @@
 # Helpful hints
 
-This document is a very, very brief overview of assembly, designed for the SkullSpace CTF Workshop.
+This document is an overview of assembly and shellcode, designed for the SkullSpace CTF Workshop. It'll cover tools, techniques, and instructions, and only assumes a development background.
 
 You can find more info [on a tutorial I wrote](https://wiki.skullsecurity.org/index.php?title=Assembly), as well as in the [seminal guide to x86](https://software.intel.com/en-us/articles/intel-sdm), particularly Volume 2.
 

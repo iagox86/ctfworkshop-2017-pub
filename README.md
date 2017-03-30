@@ -4,7 +4,7 @@ This is a list of all the levels. You can find all the files you need to complet
 
 You might also want to check out [FLAGS.md](FLAGS.md) to verify your flags.
 
-And, most importantly, have a look at [TOOLS.md](TOOLS.md), which explains everything you need to know about tools, assembly, and everything else!
+And, most importantly, have a look at [PRIMER.md](PRIMER.md), which explains everything you need to know about tools, assembly, and everything else!
 
 These are roughly ordered by difficulty, easiest to hardest.
 
