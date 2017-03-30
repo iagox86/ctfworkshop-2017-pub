@@ -18,7 +18,7 @@ Each assembly instruction has exactly one machine code to represent it. `nop` in
 
 ## Shellcode
 
-Shellcode is code that an exploit tricksd a program into running. It's typically short, self-contained, and free of NUL bytes.
+Shellcode is code that an exploit tricks a program into running. It's typically short, self-contained, and free of NUL bytes.
 
 The most important part of shellcode is: you're writing assembly/machine code has to be run completely self contained! No libraries, no .data section, nothing like that. All you have is code. That actually makes it a whole lot simpler!
 
