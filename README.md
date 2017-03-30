@@ -2,7 +2,9 @@ Welcome to the SkullSpace CTF workshop!
 
 This is a list of all the levels. You can find all the files you need to complete each level in the appropriate folders. You'll be given the port number, and occasionally source files or other things you need. And sometimes hints!
 
-You might also want to check out FLAGS.md to verify your flags and TOOLS.md for a list of the tools I suggest.
+You might also want to check out [FLAGS.md](FLAGS.md) to verify your flags.
+
+And, most importantly, have a look at [TOOLS.md](TOOLS.md), which explains everything you need to know about tools, assembly, and everything else!
 
 These are roughly ordered by difficulty, easiest to hardest.
 
