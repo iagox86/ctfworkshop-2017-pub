@@ -6,6 +6,8 @@ You might also want to check out [FLAGS.md](FLAGS.md) to verify your flags.
 
 And, most importantly, have a look at [PRIMER.md](PRIMER.md), which explains everything you need to know about tools, assembly, and everything else!
 
+Here are some writeups for BSidesSF - some of these same challenges will appear, in case you want hints (you can also google challenge names, some of them are re-used): https://drive.google.com/drive/u/0/folders/0B1FCNPhYeo0zdVRSOWNaYWp3V00
+
 These are roughly ordered by difficulty, easiest to hardest.
 
 # Easier / training challenges
